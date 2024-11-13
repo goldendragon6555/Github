@@ -1,11 +1,15 @@
 # Github
-prueba de agregar de positorio
-
-prueba de utilisar github para mis prollectos
-
-
-
-123456
-
-
-eeeeeeee
+prueba de agregar de positorio.
+.
+prueba de utilisar github para mis prollectos.
+.
+.
+.
+ahora estoy escribendo en visual estudio code.
+.
+.
+.
+123456.
+.
+.
+eeeeeeee.
